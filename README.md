@@ -12,9 +12,6 @@ This repository is designed as a portfolio demonstration of a decoupled ETL and 
 * **Future Scope (External Reconciliation):** Stateful reconciliation—such as matching internal database records against simulated ICE/CME clearing reports to identify economic breaks or duplicates—is scoped for a future build.
 
 ## The Business Problem
-[Your existing text about manual Excel workflows...]
-
-## The Business Problem
 Commodity trading desks often rely on manual, error-prone Excel spreadsheets to track end-of-day PnL and risk metrics. Dirty data (missing prices, negative volumes, malformed strings) can silently corrupt risk reports, leading to operational bottlenecks and miscalculated exposure.
 
 ## The Solution
